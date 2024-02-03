@@ -5,3 +5,23 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+nav {
+    background-color: #333; /* Background color for the navigation */
+    text-align: center; /* Center-align the buttons */
+    padding: 10px 0; /* Add padding for spacing */
+}
+
+nav button {
+    background-color: #4CAF50; /* Button background color */
+    color: white; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Add padding to the buttons */
+    margin: 0 10px; /* Add margin for spacing between buttons */
+    cursor: pointer;
+}
+
+nav button a {
+    text-decoration: none; /* Remove underline from links */
+    color: white; /* Text color for links */
+}
