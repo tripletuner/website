@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'ComputerModernTypewriterProportional';
-  src: url('fonts/cm-unicode-<version>/otf/cmuntypewriterpro-regular.otf') format('opentype');
+  src: url('cmvtt10.mf') format('opentype');
   /* Add additional font formats if needed */
   font-weight: normal;
   font-style: normal;
