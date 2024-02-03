@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'ComputerModernTypewriterProportional';
-  src: url('cmvtt10.mf') format('opentype');
+  src: url('Courier Prime.ttf') format('opentype');
   /* Add additional font formats if needed */
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: 'ComputerModernTypewriterProportional', monospace;
+  font-family: 'CourierPrime', monospace;
   /* Use your font-family in the rest of your styles */
 }
