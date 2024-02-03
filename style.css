@@ -1,5 +1,5 @@
 body {
-    font-family: 'Courier Prime', monospace;
+    font-family: 'arial', monospace;
     margin: 0;
     overflow: hidden; /* Ensure no scroll bar appears */
 }
