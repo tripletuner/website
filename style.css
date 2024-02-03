@@ -10,6 +10,7 @@ body {
 }
 
 nav {
+    font-family: 'Courier Prime', monospace;
     background-color: #333; /* Background color for the navigation */
     opacity: 0.5;
     text-align: center; /* Center-align the buttons */
@@ -21,6 +22,7 @@ nav {
 }
 
 nav button {
+    font-family: 'Courier Prime', monospace;
     background-color: #FFFFFF; /* Button background color */
     color: black; /* Button text color */
     border: none; /* Remove button border */
@@ -30,6 +32,27 @@ nav button {
 }
 
 nav button a {
+    font-family: 'Courier Prime', monospace;
     text-decoration: none; /* Remove underline from links */
     color: white; /* Text color for links */
+}
+
+body {
+    font-family: 'Courier Prime', monospace;
+    /* Add other body styles if needed */
+}
+
+header h1 {
+    font-family: 'Courier Prime', monospace;
+    /* Additional styles for header h1 if needed */
+}
+
+section {
+    font-family: 'Courier Prime', monospace;
+    /* Additional styles for the section if needed */
+}
+
+footer {
+    font-family: 'Courier Prime', monospace;
+    /* Additional styles for the footer if needed */
 }
