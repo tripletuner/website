@@ -1,4 +1,8 @@
 body {
+    font-family: 'Courier Prime', monospace;
+    margin: 0;
+    overflow: hidden; /* Ensure no scroll bar appears */
+}
 .parallax-bg {
     background-image: url('pictures/Monolith_1.jpg');
     background-size: cover;
@@ -9,7 +13,7 @@ body {
     height: 100%;
     z-index: -1; /* Place behind other elements */
 }
-}
+
 nav {
     background-color: #FFFFFF; /* Background color for the navigation */
     opacity: 1;
