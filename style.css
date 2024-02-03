@@ -7,11 +7,10 @@ body {
 }
 
 nav {
-    font-family: 'Courier Prime', monospace;
-    background-color: #333; /* Background color for the navigation */
-    opacity: 0.5;
+    background-color: #FFFFFF; /* Background color for the navigation */
+    opacity: 1;
     text-align: center; /* Center-align the buttons */
-    padding: 2px 0; /* Add padding for spacing */
+    padding: 10px 0; /* Add padding for spacing */
     position: fixed;
     width: 100%;
     top: 0;
@@ -19,7 +18,6 @@ nav {
 }
 
 nav button {
-    font-family: 'Courier Prime', monospace;
     background-color: #FFFFFF; /* Button background color */
     color: #000000; /* Button text color */
     border: none; /* Remove button border */
@@ -29,22 +27,7 @@ nav button {
 }
 
 nav button a {
-    font-family: 'Courier Prime', monospace;
     text-decoration: none; /* Remove underline from links */
     color: white; /* Text color for links */
 }
 
-header h1 {
-    font-family: 'Courier Prime', monospace;
-    /* Additional styles for header h1 if needed */
-}
-
-section {
-    font-family: 'Courier Prime', monospace;
-    /* Additional styles for the section if needed */
-}
-
-footer {
-    font-family: 'Courier Prime', monospace;
-    /* Additional styles for the footer if needed */
-}
