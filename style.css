@@ -1,8 +1,4 @@
 body {
-  font-family: 'CourierPrime', monospace;
-  /* Use your font-family in the rest of your styles */
-}
-body {
     background-image: url('pictures/Monolith_1.jpg');
     background-attachment: fixed;
     background-position: center;
