@@ -18,10 +18,10 @@ nav {
 }
 
 nav button {
-    background-color: #4CAF50; /* Button background color */
-    color: white; /* Button text color */
+    background-color: #FFFFFF; /* Button background color */
+    color: black; /* Button text color */
     border: none; /* Remove button border */
-    padding: 10px 20px; /* Add padding to the buttons */
+    padding: 5px 10px; /* Add padding to the buttons */
     margin: 0 10px; /* Add margin for spacing between buttons */
     cursor: pointer;
 }
