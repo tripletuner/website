@@ -37,11 +37,6 @@ nav button a {
     color: white; /* Text color for links */
 }
 
-body {
-    font-family: 'Courier Prime', monospace;
-    /* Add other body styles if needed */
-}
-
 header h1 {
     font-family: 'Courier Prime', monospace;
     /* Additional styles for header h1 if needed */
