@@ -1,5 +1,4 @@
 body {
-
     background-image: url('pictures/Monolith_1.jpg');
     background-attachment: fixed;
     background-position: center top;
@@ -22,7 +21,7 @@ nav {
 nav button {
     font-family: 'Courier Prime', monospace;
     background-color: #FFFFFF; /* Button background color */
-    color: black; /* Button text color */
+    color: #000000; /* Button text color */
     border: none; /* Remove button border */
     padding: 5px 10px; /* Add padding to the buttons */
     margin: 0 10px; /* Add margin for spacing between buttons */
